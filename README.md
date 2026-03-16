@@ -81,7 +81,7 @@ demo.launch(share=True, server_port=int(os.environ['PORT1']))
 ```
 ### OUTPUT:
 
-
+![img2](ss2.png)
 
 ### RESULT:
 The prototype successfully demonstrates text-to-image generation using Stable Diffusion, providing an interactive and user-friendly interface. Users can modify parameters to influence the output quality and style.
